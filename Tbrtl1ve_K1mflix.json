@@ -1,0 +1,316 @@
+ { "Ads": [
+    {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+     {
+       "id": 1,
+       "title": "",
+       "image": "",
+       "link": ""
+     }
+   ],
+  "Categories": [
+    {
+      "name_category": "lokal",
+      "image": "https://cdn-icons-png.freepik.com/256/11669/11669867.png"
+    },
+    {
+      "name_category": "asia",
+      "image": "https://cdn-icons-png.freepik.com/256/11669/11669867.png"
+    }
+  ],
+  "Video": [
+    {
+      "id": 30,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 29,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 28,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 27,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 26,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 25,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 24,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 23,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 22,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 21,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 20,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 19,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 18,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 17,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 16,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 15,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 14,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 13,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 12,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 11,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 10,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 9,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 8,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 7,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 6,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 5,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 4,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 3,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   ,
+    {
+      "id": 2,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+   
+  ,
+    {
+      "id": 11,
+      "name_category": "lokal",
+      "title": "",
+      "image": "",
+      "link_video": "",
+      "description": ""
+    }
+  ]
+}
