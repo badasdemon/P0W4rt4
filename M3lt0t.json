@@ -2,7 +2,7 @@
 	"Ads": [
 		{
 			"select_main_ads": "ALIEN-M",
-			"select_backup_ads": "APPLOVIN-M",
+			"select_backup_ads": "Null",
 			"main_ads_banner": "8652e55285d5022b27b7e2b3d32eca302c2c3e3d",
 			"main_ads_intertitial": "2d279889e26e758a8efc9a31782cc6fb53e586f7",
 			"main_ads_natives": "31ab3ee044f06d3ca7eb5a5d707c3dbd1102c181",
